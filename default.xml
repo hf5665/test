@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- remote -->
+    <remote  name="origin" fetch="git@github.com:hf5665"/>
+
+    <!-- default -->
+    <default remote="origin" />
+
+    <!-- project -->
+    <project name="project1.git" path="project1" />
+    <project name="project2.git" path="project2" />
+</manifest>
